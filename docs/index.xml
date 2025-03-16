@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacker My Music Homepage</title>
+    <link>https://hackermymusic.com/</link>
+    <description>Recent content on Hacker My Music Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://hackermymusic.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://hackermymusic.com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hackermymusic.com/</guid>
+      <description>Welcome to BAND CAMP! AKA Hacker My Music! NOTE: This is all CONTINGENT on us getting accepted to DEF CON.&#xA;Welcome to &amp;ldquo;Band Camp&amp;rdquo;, also known as &amp;ldquo;Maker My Music!&amp;rdquo; and &amp;ldquo;Pitch Imperfect?&amp;rdquo;. This event is all about creating and showcasing unique musical instruments and melodies. Join us for a fun and creative experience where originality and innovation are key! Submit your hacker tunes and musical tools by recording in our pop-up sound booth or make something unique and reproducible ahead of time and submit onsite!</description>
+    </item>
+  </channel>
+</rss>
