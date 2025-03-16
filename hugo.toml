@@ -3,11 +3,6 @@ baseURL = 'https://hackermymusic.com'
 languageCode = 'en-us'
 title = 'Hacker My Music Homepage'
 
-# Add any links to things in /content/ here
-[[menu.main]]
-name = "about"
-url = "/about/"
-weight = 1
 
 # Enable this for Tailwind in markdown files
 [markup.goldmark.renderer]
