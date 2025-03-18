@@ -857,3 +857,18 @@ h3 > a:hover {
     flex-direction: row;
   }
 }
+
+#header {
+  background: url('/images/cyberscape.gif') repeat-x;
+  animation: scroll 10s linear infinite;
+  height: 100px;
+}
+
+@keyframes scroll {
+  from {
+    background-position: 800px 0;
+  }
+  to {
+    background-position: -800px 0;
+  }
+}

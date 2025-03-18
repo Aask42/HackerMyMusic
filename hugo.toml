@@ -3,7 +3,9 @@ baseURL = 'https://hackermymusic.com'
 languageCode = 'en-us'
 title = 'Hacker My Music Homepage'
 
+publishDir='docs'
 
 # Enable this for Tailwind in markdown files
 [markup.goldmark.renderer]
 unsafe=true
+
