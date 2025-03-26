@@ -8,14 +8,17 @@
 <div style="text-align: center; font-size: 1.2em;">
 
 <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));"/>
-**NOTE: This is all CONTINGENT on us getting accepted to DEF CON.**
-</br>
+
+WUBBA LUBBA DUB DUB! We have been accepted to DEF CON 33!  </br>
+
+**See you at DEF CON, Music Hackers!**
+
 
 
 <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));"/>
 </br>
 
-Welcome to "Band Camp", also known as "Hacker My Music!", "Maker My Music!", and "Pitch Imperfect". This event is all about creating and showcasing unique musical instruments and melodies. Join us for a fun and creative experience where originality and innovation are key! Submit your hacker tunes and musical tools by recording in our pop-up sound booth or make something unique and reproducible ahead of time and submit on-site! 
+Welcome to "Band Camp", also known as "Hacker My Music!", "Maker My Music!", "Printstrument", and "Pitch Imperfect". This event is all about creating and showcasing unique musical instruments and melodies. Join us for a fun and creative experience where originality and innovation are key! Submit your hacker tunes and musical tools by recording in our pop-up sound booth or make something unique and reproducible ahead of time and submit on-site! 
 
 Band Camp is a contest where participants create musical instruments and perform melodies. The event will be judged based on various criteria, including originality, pitch accuracy, and versatility. We encourage participants to use interesting materials and showcase their creativity.
 
@@ -114,9 +117,26 @@ Should we be selected as a Contest at DEF CON 33, a form will be put up along wi
 - **Q: Are there any age restrictions for participants?**
   - A: Participants of all ages are welcome, but minors must be accompanied by an adult.
 - **Q: Do I need to register in advance?**
-  - A: No, but you MUST register before your submission will be accepted. Details will be provided once we are accepted as a contest at DEF CON 33.
+  - A: No, but you MUST register before your submission will be accepted. Details will be provided as we get closer to DEF CON 33.
 - **Q: Can I use pre-made instruments or something I found online?**
   - A: You can but it will be judged as such. All instruments must have some part created by the participants specifically for this contest at DEF CON 33. 
+- **Q: Can I use a 3D printer to create my instrument?**
+  - Yes! It is encouraged to use 3D printers to create your instrument.
+- **Q: Do I have to play my instrument or can I have someone else play it for me?**
+  - A: You can have someone else play your instrument, but you must be present to submit your instrument and be judged.
+- **Q: Can I submit more than one instrument?**
+  - A: Yes, you can submit multiple instruments, but each instrument must be submitted separately.
+- **Q: What songs are required for the submission?**
+  - A: You must submit a recording of "Daisy Bell" and additional sample songs that will be announced at DEF CON 33.
+- **Q: Can I submit a song that I did not write?**
+  - A: Yes, you can submit a cover song, but original songs are encouraged.
+- **Q: Can I use a computer or other electronic devices to create my instrument?**
+  - A: Yes, you can use electronic devices to create your instrument, but it must be reproducible and not require any proprietary software or hardware.
+- **Q: Can I print my instrument before the event?**
+  - A: Yes, you can print your instrument before the event, but you must be present to submit your instrument and be judged. You must also provide the print file (3MF) with print settings, instructions for assembly, and the recording in our on-site pop-up sound booth. 
+- **Q: Can I use a laser cutter or other tools to create my instrument?**
+  - A: No, you must use a 3D printer and other tools that are available at the event and more accessible to the general public.
+
 
 </br>
 <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));"/>
